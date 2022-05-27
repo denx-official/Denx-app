@@ -1,1 +1,1 @@
-rootProject.name = "Denx-app-temp"
+rootProject.name = "Denx-app"
